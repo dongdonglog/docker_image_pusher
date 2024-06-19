@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 rancher/mirrored-coredns-coredns:1.10.1
-camel-karavan:4.5.1
+ghcr.io/apache/camel-karavan:4.5.1     
