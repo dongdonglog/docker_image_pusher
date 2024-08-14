@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-apachepulsar/pulsar-manager:v0.3.0
+mysql:8.0.15
