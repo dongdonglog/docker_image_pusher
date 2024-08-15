@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-mysql:8.0.15
+ k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
