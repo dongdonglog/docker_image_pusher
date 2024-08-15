@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
- k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
+docker.elastic.co/elasticsearch/elasticsearch:7.9.0
