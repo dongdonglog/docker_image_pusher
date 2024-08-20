@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-docker.elastic.co/elasticsearch/elasticsearch:7.9.0
+docker.elastic.co/kibana/kibana:7.6.2
