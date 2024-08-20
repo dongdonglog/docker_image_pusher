@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-docker.elastic.co/kibana/kibana:7.6.2
+docker.elastic.co/kibana/kibana:7.9.0
