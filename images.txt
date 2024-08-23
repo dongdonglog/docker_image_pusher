@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-zookeeper:3.7.0 
+rancher/shell:v0.1.24
