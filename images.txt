@@ -5,5 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
-rancher/shell:v0.1.24
+gaecfovdocker/pulsar-console:latest
